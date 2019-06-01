@@ -1,6 +1,7 @@
 #!/bin/bash
 ##This script will perform basic Linux OS perfomance checkouts##
 ##nidhi.kn@thomsonreuters.com
+#
 
 echo -e "\e[100m--------------------------------------------------------------------- BASIC CHECKS --------------------------------------------------------------------\e[0m"
 
